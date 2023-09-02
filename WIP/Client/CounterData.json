@@ -1,0 +1,9 @@
+[ {
+  "customerId" : 1444,
+  "type" : "HEATING",
+  "counterId" : "G23984",
+  "date" : 1673868370614,
+  "newEntry" : true,
+  "counterValue" : 34238490,
+  "comment" : "0xc0febabe"
+} ]

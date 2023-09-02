@@ -1,0 +1,14 @@
+server\test\WebsiteUser.class
+jdbc\JDBC06PreparedStatements.class
+frontend\UI.class
+jdbc\JDBC02DML.class
+server\SpringBootApiServer.class
+server\entities\Ablesung.class
+jdbc\JDBC01Connect.class
+jdbc\JDBC04Properties.class
+server\entities\Customer.class
+server\test\UserRepository.class
+jdbc\JDBC05Util.class
+server\entities\Ablesung$CounterType.class
+jdbc\JDBC03DQL.class
+server\test\SpringDataRestApplication.class

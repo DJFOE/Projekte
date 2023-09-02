@@ -1,0 +1,17 @@
+[ {
+  "customerId" : 1444,
+  "type" : "HEATING",
+  "counterId" : "G23984",
+  "date" : 1673860979886,
+  "newEntry" : true,
+  "counterValue" : 34238490,
+  "comment" : "0xc0febabe"
+}, {
+  "customerId" : 23423,
+  "type" : "GAS",
+  "counterId" : "fg",
+  "date" : 1677495600000,
+  "newEntry" : false,
+  "counterValue" : 234,
+  "comment" : "kein"
+} ]
