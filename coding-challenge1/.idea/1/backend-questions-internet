@@ -1,0 +1,25 @@
+Q9: Name the difference between Acceptance Test and Functional Test
+Junior
+Top 29 Software Testing Interview Questions  Software Testing  29
+Answer
+
+    Functional testing: This is a verification activity; did we build a correctly working product? Does the software meet the business requirements? A functional test verifies that the product actually works as you (the developer) think it does.
+
+    Acceptance testing: This is a validation activity; did we build the right thing? Is this what the customer really needs? Acceptance tests verify the product actually solves the problem it was made to solve. This can best be done by the user (customer), for instance performing his/her tasks that the software assists with.
+    ---
+    Q11: What are the advantages of Web Services?
+    Junior
+    Top 46 API Design Interview Questions  API Design  46
+    Answer
+
+    Some of the advantages of web services are:
+
+        Interoperability: Web services are accessible over network and runs on HTTP/SOAP protocol and uses XML/JSON to transport data, hence it can be developed in any programming language. Web service can be written in java programming and client can be PHP and vice versa.
+        Reusability: One web service can be used by many client applications at the same time.
+        Loose Coupling: Web services client code is totally independent with server code, so we have achieved loose coupling in our application.
+        Easy to deploy and integrate, just like web applications.
+        Multiple service versions can be running at same time.
+        ---
+
+
+
